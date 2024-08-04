@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 734218a9bae7d5d44a057df6f7d7b5bf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heldItem: {instanceID: 0}
+  - droppedItemPrefab: {fileID: 1158747477340035235, guid: d30565fe22401884a81eeb423f4ce2fa, type: 3}
+  - heldWeapon: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

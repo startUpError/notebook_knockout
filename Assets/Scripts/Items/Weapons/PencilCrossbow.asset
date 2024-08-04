@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad761f56dbfe881469aa27d4e1768b64, type: 3}
+  m_Name: PencilCrossbow
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 0}
+  attackDamage: 3
+  attackRange: 0
+  sweepingEdgeRange: 0
+  sweepingSpeed: 0
+  knockbackForce: 250
+  cooldownTime: 6
+  isRanged: 1
+  ammoType: 1
